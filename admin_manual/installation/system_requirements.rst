@@ -59,7 +59,7 @@ Nextcloud needs a minimum of **128MB** RAM per process, and we recommend a minim
 In low memory environments, some features or apps may require adjustments to their default 
 settings in order to function (or, in some cases, may need to be disabled outright).
 
-.. warning:: To use the built-in Updater, at least 256MB is required.
+.. warning:: To use the built-in Updater, at least 256MB of RAM is required.
 
 Database requirements for MySQL / MariaDB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
